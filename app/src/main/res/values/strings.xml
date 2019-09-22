@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiscountsPlace</string>
+    <string name="title_add">Add Discount</string>
+    <string name="title_menu">Products</string>
+    <string name="customer_cats">Categories</string>
+    <string name="facebook_app_id">2453890614649430</string>
+    <string name="fb_login_protocol_scheme">fb2453890614649430</string>
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="signed_out">Signed Out</string>
+
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:background="@android:color/white"
+        app:cardCornerRadius="10dp"
+        android:layout_margin="5dp"
+        android:outlineAmbientShadowColor="@android:color/black"
+        android:padding="10dp"
+        android:outlineSpotShadowColor="@android:color/black">
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+        android:id="@+id/catLl">
+
+            <ImageView
+                android:id="@+id/card_view_image"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+               android:src="@drawable/avatar"
+                android:background="@color/avatar"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/card_view_image_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@android:color/holo_blue_bright"
+                android:fontFamily="@font/robotor"
+                android:text="hello"
+                android:layout_gravity="center_horizontal"
+                android:textSize="13dp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"/>
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+
+</RelativeLayout>

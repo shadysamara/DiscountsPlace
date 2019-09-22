@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095233643536",
+    "firebase_url": "https://gazadiscounts.firebaseio.com",
+    "project_id": "gazadiscounts",
+    "storage_bucket": "gazadiscounts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095233643536:android:845fb45bdad438863e9695",
+        "android_client_info": {
+          "package_name": "com.example.discountsplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095233643536-4m8lq7vdrihvg3n7oq39va1uhhcobn7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.discountsplace",
+            "certificate_hash": "ab30d85c460e1a5edd9898e797528b6b6418b2ab"
+          }
+        },
+        {
+          "client_id": "1095233643536-hos9uobk4326002ej668i03b1kptuqnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnTgX1muZnCpiiuedwXz5cEdKTpXE3A-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095233643536-hos9uobk4326002ej668i03b1kptuqnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
